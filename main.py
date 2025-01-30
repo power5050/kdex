@@ -150,9 +150,9 @@ VIDEOS = [
         'fanart': os.path.join(FANART_DIR, 'Drama.jpg'),
         'movies': [
             {
-                'title': 'The Stranger',
-                'url': 'https://pornoembed.info/get_file/1/abc28b34e65215ef1871331228389179/456353000/456353785/456353785.mp4/?embed=true&rnd=1737846721355',
-                'poster': 'https://publicdomainmovie.net/wikimedia.php?id=Movie-Mystery-Magazine-July-1946.jpg',
+                'title': 'May i cum in my tights and then fill your mouth with real SQUIRT? Hot teen Goth girl videocall you | from model - Shyblanche',
+                'url': 'https://pornoembed.info/get_file/1/0f332ae4c4ffd1dfd5e6c6e17ce526a8/456351000/456351688/456351688.mp4/?embed=true&rnd=1738273671653',
+                'poster': 'https://pornoembed.info/contents/videos_screenshots/456351000/456351688/preview.mp4.jpg',
                 'plot': 'In 1946, Mr. Wilson (Edward G. Robinson) of the United Nations War Crimes Commission is hunting for '
                         'a Nazism fugitive Franz Kindler (Orson Welles), a war criminal who has erased all evidence which '
                         'might identify him. Kindler has assumed a new identity, Charles Rankin, '
