@@ -1,0 +1,2 @@
+# kodiex
+kodi example çalışması
