@@ -2,7 +2,7 @@
 <addon id="plugin.video.example"
 version="3.0.1"
 name="Example Kodi Video Plugin"
-provider-name="Roman_V_M">
+provider-name="Power50">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
 </requires>
@@ -10,7 +10,7 @@ provider-name="Roman_V_M">
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en_GB">Example Kodi Video Plugin</summary>
+  <summary lang="en_GB">Power50.plugin</summary>
   <description lang="en_GB">An example video plugin for Kodi mediacenter.</description>
   <disclaimer lang="en_GB">Public domain movies are provided by publicdomainmovie.net.</disclaimer>
   <license>GPL-3.0-only	</license>
